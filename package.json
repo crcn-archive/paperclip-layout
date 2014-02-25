@@ -1,0 +1,23 @@
+{
+  "name": "paperclip-layout",
+  "version": "0.0.0",
+  "description": "paperclip-layout ================",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/classdojo/paperclip-layout"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/classdojo/paperclip-layout/issues"
+  },
+  "dependencies": {
+    "protoclass": "0.0.5",
+    "bindable": "~0.5.26",
+    "paperclip": "~0.3.69"
+  }
+}
